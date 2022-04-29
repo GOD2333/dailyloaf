@@ -1,7 +1,6 @@
 # dailyloaf  摸鱼人日历
 一个很简单的每日摸鱼日报
 
-[api地址](http://d.jiek.top/KbaG) 感谢api作者
 ## 安装方法
 ### 懒人法
 &emsp;&emsp;将`dailyloaf.py`丢入任意一个已启用模块中然后重启hoshino
@@ -26,6 +25,11 @@ aiocqhttp>=1.4
 ## 鸣谢
 [Hoshino](https://github.com/Ice-Cirno/HoshinoBot) <s>星乃真好玩</s>
 
-[api](http://d.jiek.top/KbaG) <s>虽然我不知道这个api哪里来的也不知道是谁写的</s>
+[api](http://d.jiek.top/KbaG) api从群友来的,虽然也不知道是谁写的但感谢api作者
+
+## 其他
+发现个[直接获取图片](https://api.vvhan.com/api/moyu)的api
+应该是公众号摸鱼人日历的
+
 ## License
 This project is licensed under [GLWTPL](https://github.com/me-shaon/GLWTPL/blob/master/LICENSE)
