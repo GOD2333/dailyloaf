@@ -4,7 +4,7 @@
 [api地址](http://d.jiek.top/KbaG) 感谢api作者
 ## 安装方法
 ### 懒人法
-&emsp;&emsp;将`dailynews.py`丢入任意一个已启用模块中然后重启hoshino
+&emsp;&emsp;将`dailyloaf.py`丢入任意一个已启用模块中然后重启hoshino
 ### 不是懒人法
 * 在`HoshinoBot\hoshino\modules`下新建一个文件夹
 * 将`dailyloaf.py`放入其中
