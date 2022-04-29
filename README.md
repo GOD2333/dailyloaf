@@ -7,7 +7,7 @@
 &emsp;&emsp;将`dailynews.py`丢入任意一个已启用模块中然后重启hoshino
 ### 不是懒人法
 * 在`HoshinoBot\hoshino\modules`下新建一个文件夹
-* 将`dailynews.py`放入其中
+* 将`dailyloaf.py`放入其中
 * 在 `HoshinoBot\hoshino\config\__bot__.py` 文件的 `MODULES_ON` 里加入新建的文件夹的名字
 * 重启hoshino
 ## 依赖要求
