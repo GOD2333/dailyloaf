@@ -1,4 +1,4 @@
-# dailynews  60s读懂世界
+# dailyloaf  摸鱼人日历
 一个很简单的每日摸鱼日报
 
 [api地址](http://d.jiek.top/KbaG) 感谢api作者
