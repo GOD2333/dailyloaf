@@ -29,7 +29,6 @@ aiocqhttp>=1.4
 
 ## 其他
 发现个[直接获取图片](https://api.vvhan.com/api/moyu)的api
-应该是公众号摸鱼人日历的
 
 ## License
 This project is licensed under [GLWTPL](https://github.com/me-shaon/GLWTPL/blob/master/LICENSE)
