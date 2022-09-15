@@ -30,5 +30,7 @@ aiocqhttp>=1.4
 ## 其他
 发现个[直接获取图片](https://api.vvhan.com/api/moyu)的api
 
+![预览图片](https://static.4ce.cn/star3/origin/3fc3e7792b64aef3eb398c0fd3089828.png?rw=540&rh=804&_fileSize=864236&_orientation=1 "摸鱼人日历 预览图")
+
 ## License
 This project is licensed under [GLWTPL](https://github.com/me-shaon/GLWTPL/blob/master/LICENSE)
