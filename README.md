@@ -25,10 +25,17 @@ aiocqhttp>=1.4
 ## 鸣谢
 [Hoshino](https://github.com/Ice-Cirno/HoshinoBot) <s>星乃真好玩</s>
 
-[api](http://d.jiek.top/KbaG) api从群友来的,虽然也不知道是谁写的但感谢api作者
+## 感谢api作者
+[https://api.emoao.com/api/moyu](https://api.emoao.com/api/moyu)返回格式：图片
 
-## 其他
-发现个[直接获取图片](https://api.vvhan.com/api/moyu)的api
+[https://api.vvhan.com/api/moyu](https://api.vvhan.com/api/moyu)返回格式：图片
+
+[https://api.emoao.com/api/moyu?type=json](https://api.emoao.com/api/moyu?type=json)返回格式：JSON
+
+[https://api.j4u.ink/v1/store/other/proxy/remote/moyu.json](https://api.j4u.ink/v1/store/other/proxy/remote/moyu.json)返回格式：JSON
+
+
+
 
 ![预览图片](https://static.4ce.cn/star3/origin/3fc3e7792b64aef3eb398c0fd3089828.png?rw=540&rh=804&_fileSize=864236&_orientation=1 "摸鱼人日历 预览图")
 
